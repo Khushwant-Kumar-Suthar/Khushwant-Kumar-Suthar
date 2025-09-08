@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khushwant</h1>
 <h3 align="center">A passionate java developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushwant-kumar-suthar" alt="khushwant-kumar-suthar" /></a> </p>
-
 - 🌱 I’m currently learning **Spring Boot**
-
-- 📝 I regularly write articles on [https://blogs.oracle.com/java](https://blogs.oracle.com/java)
 
 - 💬 Ask me about **Java,SQL,J2EE**
 
